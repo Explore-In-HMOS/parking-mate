@@ -8,7 +8,7 @@ This app is designed to simplify your urban experience—no more wandering in la
 
 # Preview
 
-<p align="center">
+<p>
   <img src="./screenshots/parkingmate_1.png" width="24%">
   <img src="./screenshots/parkingmate_2.png" width="24%">
   <img src="./screenshots/parkingmate_3.png" width="24%">
@@ -79,3 +79,4 @@ entry/src/main/ets/
 
 **ParkingMate** is released under the MIT License.  
 See the [LICENSE](./LICENSE) file for more information.
+
